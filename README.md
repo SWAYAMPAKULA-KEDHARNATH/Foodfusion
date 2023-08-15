@@ -1,4 +1,4 @@
-# FoodFusion: Savory Soiree:
+# FoodFusion: 
   ◦ Developed a dynamic and visually appealing food website using HTML, CSS, Bootstrap, and JavaScript, aimed at
     providing an immersive culinary experience to users.
     
